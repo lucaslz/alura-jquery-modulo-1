@@ -1,1 +1,2 @@
-"# alura-jquery-modulo-1" 
+# Alura JQuery Modulo 1 
+Exercícios do curso de JQ query da alura
